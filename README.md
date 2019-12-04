@@ -26,7 +26,12 @@ Also, we included base station map latitude and longitude in autralian so the pr
 #### Note: 
 “severity_type” is a feature extracted from the log files (in severity_type.csv). Often this is a severity type of a warning message coming from the log. "severity_type" is categorical. It does not have an ordering. “fault_severity” is a measurement of actual reported faults from users of the network and is the target variable (in train.csv).
  
- ## Layout
+ ## Process
+ 
+ ![alt text](/Media/ND.png)
+ Diagram above, can sum up pretty much about the model development. Random forrest classification are being used for this case with the accuracy around 95%. The raw code from data cleansing to model evaluation is available inside the notebooks directory in this repository.
+ 
+  ## Layout
  
 
  ![alt text](/Media/Layout1.png)
@@ -36,11 +41,6 @@ Also, we included base station map latitude and longitude in autralian so the pr
   ![alt text](/Media/Layout2.png)
  
  Plotting every location into base station latitude longitude and differentiating every severity type by color.  
- 
- ## Process
- 
- ![alt text](/Media/ND.png)
- Diagram above, can sum up pretty much about the model development. Random forrest classification are being used for this case with the accuracy around 95%. The raw code from data cleansing to model evaluation is available inside the notebooks directory in this repository.
  
  ## Author
  
