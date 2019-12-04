@@ -37,4 +37,16 @@ Also, we included base station map latitude and longitude in autralian so the pr
  
  Plotting every location into base station latitude longitude and differentiating every severity type by color.  
  
+ ## Process
+ 
+ ![alt text](/Media/ND.png)
+ Diagram above, can sum up pretty much about the model development. Random forrest classification are being used for this case with the accuracy around 95%. The raw code from data cleansing to model evaluation is available inside the notebooks directory in this repository.
+ 
+ ## Author
+ 
+ * Edward Samudra
+ * Hans Reinaldy
+ * Timothius Hermawan
+ 
+ 
  
