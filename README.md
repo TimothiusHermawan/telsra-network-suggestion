@@ -28,4 +28,5 @@ Also, we included base station map latitude and longitude in autralian so the pr
  
  ## Layout
  
- ![alt text](https://drive.google.com/open?id=1V3spfroqwFX7IAXzzfPR52eAslbMzYVN)
+ ![alt text](/Media/Layout1.png)
+ ![alt text](/Media/Layout2.png)
