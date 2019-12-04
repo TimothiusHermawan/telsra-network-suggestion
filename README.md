@@ -1,4 +1,4 @@
-# Telsra Network Suggestion
+# Telstra Network Disruption Recommendation
 
 Telsra Challenge on kaggle
 
@@ -30,5 +30,9 @@ Also, we included base station map latitude and longitude in autralian so the pr
  
 
  ![alt text](/Media/Layout1.png)
- 
  ![alt text](/Media/Layout2.png)
+ 
+ You can input location by typing the location code with range from 1 - 1125.
+ Plotting every location into base station latitude longitude and differentiating every severity type by color.  
+ 
+ 
